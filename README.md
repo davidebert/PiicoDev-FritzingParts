@@ -23,7 +23,7 @@ If you want all PiicoDev parts grouped together in their own bin:
 - Name the bin (e.g. ***PiicoDev***) and click on **OK**.
 - Follow the instructions as above, but do it from within your custom bin.
 
-If you want to include a Core Electronics icon to identify the PiicoDev bin in Fritzing, you will need to download and save the **CoreElectronicsSymbol.png** (or create your own custom symbol) to the same folder that contains the custom bin, then edit the custom ***.fzb*** file (e.g. ***PiicoDev.fzb***) by opening it in a text editor. On the first line, replace ***Custom1.png*** with ***CoreElectronicsSymbol.png*** or whatever image file you wish to use.
+If you want to include a Core Electronics icon to identify the PiicoDev bin in Fritzing, you will need to download and save the **CoreElectronicsSymbol.png** (or create your own custom symbol) to the same folder that contains the custom bin, then edit the custom ***.fzb*** file (e.g. ***PiicoDev.fzb***) by opening it in a text editor. On the first line, replace ***Custom1.png*** with ***core-electronics-symbol.png*** or whatever image file you wish to use.
 
 This repository does not contain a Fritzing part for the Raspberry Pi Pico. 
 
